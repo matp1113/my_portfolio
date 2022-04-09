@@ -1,4 +1,4 @@
-I've been building this portfolio basing on template from "The Flutter Way" YT channel (link: https://www.youtube.com/watch?v=G_ZIJseX6AU)
+# I've been building this portfolio basing on template from "The Flutter Way" YT channel (link: https://www.youtube.com/watch?v=G_ZIJseX6AU)
 
 # Responsive and Animated Portfolio Website & App - Flutter UI
 
